@@ -1,0 +1,2 @@
+class NubbinBattery:
+    pass
